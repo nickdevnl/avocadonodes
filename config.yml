@@ -8,7 +8,9 @@ params:
     - name: Node 1
       link: ne.avocadonodes.com
     - name: Node 2
+      link: n2.avocadonodes.com
     - name: Node 3
+      link: n3.avocadonodes.com
   dateFormat: July 30, 2021 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
