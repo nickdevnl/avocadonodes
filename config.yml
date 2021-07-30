@@ -6,11 +6,11 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: Node 1
-      link: ne.avocadonodes.com
+      link: ""
     - name: Node 2
-      link: n2.avocadonodes.com
+      link: ""
     - name: Node 3
-      link: n3.avocadonodes.com
+      link: ""
   dateFormat: July 30, 2021 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
