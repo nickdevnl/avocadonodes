@@ -4,8 +4,11 @@ params:
   shortDateFormat: 15:04 — Jan 2
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
-  systems: []
-  dateFormat: January 2, 2006 at 3:04 PM
+  systems:
+    - name: Node 1
+    - name: Node 2
+    - name: Node 3
+  dateFormat: January 2, 2021 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"
   logo: /images/clearstatus.svg
