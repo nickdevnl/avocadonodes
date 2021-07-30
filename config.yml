@@ -6,6 +6,7 @@ params:
     systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: Node 1
+      link: ne.avocadonodes.com
     - name: Node 2
     - name: Node 3
   dateFormat: July 30, 2021 at 3:04 PM
